@@ -3,6 +3,7 @@
 ⚠️⚠️⚠️ **WORK IN PROGRESS** ⚠️⚠️⚠️
 
 * [See the Project White Paper in HackMd!!!](https://hackmd.io/@ChiHaoLu/HyTLOaRGc)
+* [Live Demo](https://chihaolu.github.io/SmartContractDapp_beta_v1/)
 
 ---
 
