@@ -6,7 +6,7 @@ import IconButton from '@mui/material/IconButton';
 import Collapse from '@mui/material/Collapse';
 import CloseIcon from '@mui/icons-material/Close';
 const Web3 = require('web3');
-const url = "https://eth-rinkeby.alchemyapi.io/v2/1YRsY55AxFPKvZt7ekvgBg-yywM9g1TU";
+const url = "https://eth-rinkeby.alchemyapi.io/v2/<YourProjectKey>";
 const web3 = new Web3(url);
 
 const CompilingSmartContractDemo: React.FC = () => {
